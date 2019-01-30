@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  30 JAN 2019 10:21
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  26 OCT 2018 11:14
+>>>>>>> 842bec47bdd01dcc917849f28cd853df742645e9
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1052,7 +1056,11 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
+<<<<<<< HEAD
 (Font)              <5> on input line 74.
+=======
+(Font)              <5> on input line 73.
+>>>>>>> 842bec47bdd01dcc917849f28cd853df742645e9
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
 [1
 
@@ -1060,10 +1068,14 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
  (./john_ortiz_resume_onepage.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 168.
+<<<<<<< HEAD
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `john_ortiz_resume_onepage.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: 1D80BB38FEDBBB6E265ECBCDBBF90A68.
+=======
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 168.
+>>>>>>> 842bec47bdd01dcc917849f28cd853df742645e9
 
 
 LaTeX Font Warning: Size substitutions with differences
