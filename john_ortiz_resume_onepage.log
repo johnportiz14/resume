@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  30 JAN 2019 10:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  15 FEB 2019 09:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1053,14 +1053,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 74.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./john_ortiz_resume_onepage.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `john_ortiz_resume_onepage.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: 1D80BB38FEDBBB6E265ECBCDBBF90A68.
@@ -1072,7 +1072,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
  23199 strings out of 492970
